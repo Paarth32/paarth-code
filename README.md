@@ -1,3 +1,3 @@
 # paarth-code
 this is my first git Repository 
-author-paarth saxena
+author-paarth saxena(hogwarts)
